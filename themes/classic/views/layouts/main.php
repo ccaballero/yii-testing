@@ -54,6 +54,9 @@
                     array(
                         'label' => 'Registro de Olimpistas',
                         'url' => array('/postulante/create')),
+                    array(
+                        'label' => 'Problemas',
+                        'url' => array('/problema/index')),
                 ),
             )); ?>
             </div>
